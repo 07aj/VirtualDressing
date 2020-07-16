@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/300049524/testProject/DUP/app/.cxx/cmake/release/x86'
+ninja: no work to do.

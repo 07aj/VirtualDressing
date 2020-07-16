@@ -1,0 +1,7 @@
+Executable : /Users/300049524/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/300049524/testProject/DUP/app/.cxx/cmake/debug/x86
+native-lib
+jvmArgs : 
+

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/300049524/testProject/DUP/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/300049524/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android23 --gcc-toolchain=/Users/300049524/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/300049524/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o -c /Users/300049524/testProject/DUP/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/300049524/testProject/DUP/app/src/main/cpp/native-lib.cpp"
+}
+]
